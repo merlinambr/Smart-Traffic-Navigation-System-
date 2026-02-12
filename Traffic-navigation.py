@@ -1,6 +1,6 @@
 import heapq
 
-# node: [(neighbor, travel_time)]
+# node:[(neighbor, travel_time)]
 graph = {
     'A': [('B', 4), ('C', 3)],
     'B': [('D', 5), ('E', 12)],
